@@ -1,0 +1,136 @@
+.logovet {
+    width: 300px;
+    height: 150px;
+}
+
+
+
+.localfoto {
+    margin: auto;
+    padding: 1em;
+    width: 400px;
+    height: 480px;
+    margin-left: 20px;
+}
+
+footer {
+    background: white;
+}
+
+body {
+    transform: scale(0.9);
+    transform-origin: top left;
+    width: 111.1111%;
+    background: radial-gradient(circle, #5FDECF, #CCF6ED);
+    height: 200px;
+}
+
+.sidebar {
+    position: fixed;
+    top: 56px;
+    bottom: 0;
+    left: 0;
+    width: 280px;
+    background-color: black;
+    color: white;
+    z-index: 100;
+    box-shadow: inset -1px 0 0 rgba(0, 0, 0, .1);
+    overflow-y: auto;
+    height: 100vh;
+}
+
+@media (max-width: 991.98px) {
+    .sidebar {
+        top: 0;
+    }
+}
+
+.sidebar ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.sidebar ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.sidebar ul li {
+    padding: 20px 10px;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+    text-align: center;
+}
+
+
+.titulo {
+    background-color: #ECE782;
+    border: 2px solid #ECE782;
+    width: auto;
+    text-align: center;
+}
+
+.extraservice p {
+    text-align: justify;
+}
+
+.card.mb-3.mx-auto img {
+    height: 70px;
+    width: 100px;
+}
+
+#tarjetadatos {
+    padding: 10px;
+}
+
+#citas-container {
+    max-height: 700px;
+    overflow-y: auto;
+}
+
+#citas-container2 {
+    max-height: 700px;
+    overflow-y: auto;
+}
+
+#citas-container3 {
+    max-height: 700px;
+    overflow-y: auto;
+}
+
+.sidebar {
+    position: fixed;
+    top: 56px;
+    bottom: 0;
+    left: 0;
+    width: 280px;
+    background-color: white;
+    color: black;
+    z-index: 100;
+    box-shadow: inset -1px 0 0 rgba(0, 0, 0, .1);
+    overflow-y: auto;
+    height: 100vh;
+}
+
+.sidebar ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.sidebar ul li {
+    padding: 20px 10px;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+    text-align: center;
+    font-size: 1.5em;
+}
+
+.sidebar ul li a {
+    color: black;
+    text-decoration: none;
+}
+
+.sidebar ul li a:hover {
+    color: gray;
+}

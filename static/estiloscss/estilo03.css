@@ -1,0 +1,182 @@
+.logovet {
+    width: 300px;
+    height: 150px;
+}
+
+
+body {
+    transform: scale(0.9);
+    transform-origin: top left;
+    width: 111.1111%;
+    background: radial-gradient(circle, #5FDECF, #CCF6ED);
+    height: 200px;
+}
+
+
+footer {
+    background: white;
+}
+
+.botonesgroup {
+    margin-top: 10px;
+}
+
+
+
+.button:hover {
+    background-color: #0056b3;
+    border: 2px solid #0056b3;
+    color: #fff;
+
+}
+
+
+.mascotasdiv {
+    background: linear-gradient(to left, #00e676, #b9f6ca);
+    border: 2px solid black;
+    padding: 20px;
+
+}
+
+.citas-card {
+    background: linear-gradient(to left, #FCF100, #F8F5AA);
+    border: 2px solid black;
+    padding: 20px;
+
+}
+
+
+.imagenfooter {
+    width: 20%;
+}
+
+.card.mb-3.mx-auto {
+    max-width: 1000px;
+}
+
+
+
+
+.button-registro {
+    margin-top: 2px;
+    display: inline-block;
+    width: 100%;
+    padding: 10px;
+    background-color: #ECE782;
+    color: black;
+    text-decoration: none;
+    border: 2px solid black;
+    border-radius: 5px;
+    font-size: 18px;
+}
+
+.img-fluid {
+    background-color: #ECE782;
+    border: 5px solid #ECE782;
+}
+
+.card-container h5 {
+    font-size: 1.5rem;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+#citas-container {
+    max-height: 700px;
+    overflow-y: auto;
+}
+
+.datospet {
+    margin-left: 15px;
+}
+
+.card-container p {
+    font-size: 1rem;
+    color: #666;
+    margin-bottom: 5px;
+}
+
+.botonesgroup {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 10px;
+}
+
+.botonesgroup form {
+    display: flex;
+}
+
+.botonesgroup form .form-group {
+    margin-bottom: 0;
+}
+
+.eliminar-cita-btn {
+    background-color: red;
+    color: white;
+    border: none;
+    padding: 8px 16px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.eliminar-cita-btn:hover {
+    background-color: darkred;
+}
+
+.citas-container {
+    width: 100%;
+    max-width: 800px;
+}
+
+.botonesgroup input[type="submit"] {
+    width: 125px;
+    margin-left: 15px;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.modal-backdrop {
+    width: 111.1111%;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.botonesgroup2 input[type="submit"] {
+    width: 80px;
+    margin-left: 15px;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    background-color: red;
+    color: #fff;
+}
+
+.btnazul {
+    background-color: #007bff;
+    color: #fff;
+}
+
+.btnverde {
+    background-color: peru;
+    color: #fff;
+}
+
+.btnrojo {
+    background-color: red;
+    color: #fff;
+}
+
+.botonesgroup input[type="submit"]:hover {
+    filter: brightness(90%);
+}
+
+.modal-dialog {
+    margin-top: 10px;
+    margin: 0 auto;
+
+}

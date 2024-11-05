@@ -1,0 +1,292 @@
+.logovet {
+    width: 300px;
+    height: 150px;
+}
+
+.carousel-inner img {
+    width: 100%;
+    max-height: 400px;
+}
+
+.carousel-inner {
+    height: 400px;
+}
+
+body {
+    transform: scale(0.9);
+    transform-origin: top left;
+    width: 111.1111%;
+    background: radial-gradient(circle, #5FDECF, #CCF6ED);
+    height: 200px;
+}
+
+.carousel-item img {
+    height: 100px;
+}
+
+.formulario {
+    padding: 10px 60px 20px;
+}
+
+.portada {
+    margin: auto;
+    padding: 6%;
+}
+
+.portada p {
+    text-align: justify;
+    padding: 0 10%;
+
+
+}
+
+.fotoservicio {
+    margin-left: 20px;
+
+}
+
+.portada h3 {
+    text-align: center;
+
+}
+
+.card.mb-3.mx-auto {
+    max-width: 1000px;
+
+}
+
+.localfoto {
+    margin: auto;
+    padding: 1em;
+    width: 400px;
+    height: 480px;
+    margin-left: 20px;
+}
+
+.loginpad {
+    margin: 1;
+    padding: 3em;
+    background: white;
+}
+
+footer {
+    background: white;
+}
+
+.button-container {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.localfoto {
+    margin: auto;
+    width: 480px;
+    height: 400px;
+    position: relative;
+}
+
+.botonesgroup {
+    margin-top: 10px;
+}
+
+.localfoto img {
+    position: absolute;
+    top: 50%;
+    left: 60%;
+    transform: translate(-50%, -50%);
+
+    background-color: #0056b3;
+    border: 2px solid #0056b3;
+}
+
+
+
+
+
+.button {
+    display: inline-block;
+    padding: 15px 30px;
+    background-color: #007bff;
+    color: #fff;
+    text-decoration: none;
+    border: 2px solid #007bff;
+    border-radius: 5px;
+    font-size: 18px;
+}
+
+
+.button:hover {
+    background-color: #0056b3;
+    border: 2px solid #0056b3;
+    color: #fff;
+
+}
+
+.titulo {
+    background-color: #ECE782;
+    border: 2px solid #ECE782;
+    width: auto;
+    text-align: center;
+}
+
+.extraservice {
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 40px;
+}
+
+.extraservice p {
+    text-align: justify;
+
+}
+
+.mascotasdiv {
+    background: linear-gradient(to left, #00e676, #b9f6ca);
+    border: 2px solid black;
+    padding: 20px;
+
+}
+
+.card.mb-3.mx-auto img {
+    height: 70px;
+    width: 100px;
+}
+
+.imagenfooter {
+    width: 20%;
+}
+
+.form-group input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.form-group input[type="submit"] {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+.form-group input[type="submit"]:hover {
+    background-color: #0056b3;
+}
+
+.form-group:last-child {
+    margin-bottom: 0;
+}
+
+.form-group:last-child input[type="submit"] {
+    margin-top: 10px;
+}
+
+.card.mb-3.mx-auto {
+    max-width: 1000px;
+}
+
+.form-group input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+
+.form-container {
+    display: flex;
+    flex-direction: column;
+    background-color: #fff;
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 80%;
+    max-width: 600px;
+
+}
+
+
+
+.button-red:hover {
+    background-color: #cc0000;
+    border: 2px solid #cc0000;
+    color: #fff;
+}
+
+.form-container h2 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.form-group {
+    margin-bottom: 15px;
+}
+
+.form-group label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+.form-group input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.button-red {
+    margin-top: 2px;
+    display: inline-block;
+    width: 100%;
+    padding: 10px;
+    background-color: #ff0000;
+    color: #fff;
+    text-decoration: none;
+    border: 2px solid #ff0000;
+    border-radius: 5px;
+    font-size: 18px;
+}
+
+.button-registro {
+    margin-top: 2px;
+    display: inline-block;
+    width: 100%;
+    padding: 10px;
+    background-color: #ECE782;
+    color: black;
+    text-decoration: none;
+    border: 2px solid black;
+    border-radius: 5px;
+    font-size: 18px;
+}
+
+.serviciosdiv {
+    background: linear-gradient(to left, #00e676, #b9f6ca);
+    border: 2px solid black;
+    padding: 20px;
+
+}
+
+.form-group input[type="submit"] {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+.form-group input[type="submit"]:hover {
+    background-color: #0056b3;
+}
+
+.form-group:last-child {
+    margin-bottom: 0;
+}
+
+.form-group:last-child input[type="submit"] {
+    margin-top: 10px;
+}

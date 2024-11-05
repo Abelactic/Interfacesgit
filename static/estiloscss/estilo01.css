@@ -1,0 +1,135 @@
+.logovet {
+    width: 300px;
+    height: 150px;
+}
+
+.carousel-inner img {
+    width: 100%;
+    max-height: 400px;
+}
+
+.carousel-inner {
+    height: 400px;
+}
+
+body {
+    transform: scale(0.9);
+    transform-origin: top left;
+    width: 111.1111%;
+    background: radial-gradient(circle, #5FDECF, #CCF6ED);
+    height: 200px;
+}
+
+.carousel-item img {
+    height: 100px;
+}
+
+.portada {
+    margin: auto;
+    padding: 6%;
+}
+
+.portada p {
+    text-align: justify;
+    padding: 0 10%;
+
+
+}
+
+.fotoservicio {
+    margin-left: 20px;
+
+}
+
+.portada h3 {
+    text-align: center;
+
+}
+
+.card.mb-3.mx-auto {
+    max-width: 1000px;
+
+}
+
+.localfoto {
+    margin: auto;
+    padding: 1em;
+    width: 400px;
+    height: 480px;
+    margin-left: 20px;
+}
+
+
+
+footer {
+    background: white;
+}
+
+
+.localfoto {
+    margin: auto;
+    width: 480px;
+    height: 400px;
+    position: relative;
+}
+
+
+.localfoto img {
+    position: absolute;
+    top: 50%;
+    left: 60%;
+    transform: translate(-50%, -50%);
+
+    background-color: #0056b3;
+    border: 2px solid #0056b3;
+}
+
+
+.titulo {
+    background-color: #ECE782;
+    border: 2px solid #ECE782;
+    width: auto;
+    text-align: center;
+}
+
+.extraservice {
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 40px;
+}
+
+.extraservice p {
+    text-align: justify;
+
+}
+
+.mascotasdiv {
+    background: linear-gradient(to left, #00e676, #b9f6ca);
+    border: 2px solid black;
+    padding: 20px;
+
+}
+
+.card.mb-3.mx-auto img {
+    height: 70px;
+    width: 100px;
+}
+
+.imagenfooter {
+    width: 20%;
+}
+
+
+
+
+
+
+.serviciosdiv {
+    background: linear-gradient(to left, #00e676, #b9f6ca);
+    border: 2px solid black;
+    padding: 20px;
+
+}

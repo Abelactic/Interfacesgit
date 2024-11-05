@@ -1,0 +1,81 @@
+.carousel-inner img {
+    width: 100%;
+    max-height: 400px;
+}
+
+.carousel-inner {
+    height: 400px;
+}
+
+body {
+    transform: scale(0.9);
+    transform-origin: top left;
+    width: 111.1111%;
+    background: radial-gradient(circle, #5FDECF, #CCF6ED);
+    height: 200px;
+}
+
+.portada {
+    margin: auto;
+    padding: 6%;
+}
+
+.portada p {
+    text-align: justify;
+    padding: 0 10%;
+}
+
+.localfoto {
+    margin: auto;
+    padding: 1em;
+    width: 400px;
+    height: 480px;
+    margin-left: 20px;
+}
+
+.footer {
+    background: white;
+}
+
+.extraservice {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 40px;
+}
+
+.extraservice p {
+    text-align: justify;
+}
+
+.card.mb-3.mx-auto img {
+    height: 70px;
+    width: 100px;
+}
+
+.form-group input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.form-group input[type="submit"] {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+.form-group input[type="submit"]:hover {
+    background-color: #0056b3;
+}
+
+.form-group:last-child {
+    margin-bottom: 0;
+}
+
+.form-group:last-child input[type="submit"] {
+    margin-top: 10px;
+}
